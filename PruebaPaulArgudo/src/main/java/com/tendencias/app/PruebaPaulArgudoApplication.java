@@ -1,0 +1,13 @@
+package com.tendencias.app;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PruebaPaulArgudoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PruebaPaulArgudoApplication.class, args);
+	}
+
+}
